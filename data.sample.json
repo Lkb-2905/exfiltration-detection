@@ -1,0 +1,30 @@
+[
+  {
+    "user": "analyst_1",
+    "bytes_out": 52000,
+    "bytes_in": 120000,
+    "destinations": 3,
+    "hour": 10
+  },
+  {
+    "user": "analyst_1",
+    "bytes_out": 61000,
+    "bytes_in": 115000,
+    "destinations": 4,
+    "hour": 11
+  },
+  {
+    "user": "analyst_2",
+    "bytes_out": 70000,
+    "bytes_in": 98000,
+    "destinations": 4,
+    "hour": 9
+  },
+  {
+    "user": "analyst_2",
+    "bytes_out": 820000,
+    "bytes_in": 45000,
+    "destinations": 18,
+    "hour": 2
+  }
+]
