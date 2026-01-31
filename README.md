@@ -60,3 +60,14 @@ Surveiller les activites et detecter les comportements anormaux pouvant indiquer
 - Explications: `--explain`
 - Stats: `--stats stats.json`
 - Demo: `python exfiltration_detection.py --input data.sample.json --output alerts.json --stats stats.json --explain`
+
+### Sorties attendues
+- `alerts.json`: alertes triees par score
+- `stats.json`: resume des alertes
+
+### Dependances
+Voir `requirements.txt`.
+
+### Roadmap et suggestions
+- `ROADMAP.md`
+- `CODE_SUGGESTIONS.md`
